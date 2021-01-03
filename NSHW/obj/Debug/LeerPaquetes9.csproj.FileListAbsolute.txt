@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\bin\Debug\LeerPaquetes9.exe.config
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\bin\Debug\LeerPaquetes9.exe
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\bin\Debug\LeerPaquetes9.pdb
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\bin\Debug\PcapDotNet.Analysis.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\obj\Debug\LeerPaquetes9.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\obj\Debug\NSHW.FormLector.resources
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\obj\Debug\NSHW.GUI.resources
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\obj\Debug\LeerPaquetes9.Properties.Resources.resources
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\obj\Debug\LeerPaquetes9.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\obj\Debug\LeerPaquetes9.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\obj\Debug\LeerPaquetes9.exe
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes9\NSHW\obj\Debug\LeerPaquetes9.pdb

@@ -1,0 +1,45 @@
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\LeerPaquetes7.exe.config
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\LeerPaquetes7.exe
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\LeerPaquetes7.pdb
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\PcapDotNet.Analysis.dll
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\LeerPaquetes7.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.FormLector.resources
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.GUI.resources
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\LeerPaquetes7.Properties.Resources.resources
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\LeerPaquetes7.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\LeerPaquetes7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\LeerPaquetes7.exe
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\LeerPaquetes7.pdb
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\bin\Debug\LeerPaquetes7.exe.config
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\bin\Debug\LeerPaquetes7.exe
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\bin\Debug\LeerPaquetes7.pdb
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\bin\Debug\PcapDotNet.Analysis.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\obj\Debug\LeerPaquetes7.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\obj\Debug\NSHW.FormLector.resources
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\obj\Debug\NSHW.GUI.resources
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\obj\Debug\LeerPaquetes7.Properties.Resources.resources
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\obj\Debug\LeerPaquetes7.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\obj\Debug\LeerPaquetes7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\obj\Debug\LeerPaquetes7.exe
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes7\NSHW\obj\Debug\LeerPaquetes7.pdb
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\bin\Debug\LeerPaquetes7.exe.config
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\bin\Debug\LeerPaquetes7.exe
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\bin\Debug\LeerPaquetes7.pdb
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\bin\Debug\PcapDotNet.Analysis.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\obj\Debug\LeerPaquetes7.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\obj\Debug\NSHW.FormLector.resources
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\obj\Debug\NSHW.GUI.resources
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\obj\Debug\LeerPaquetes7.Properties.Resources.resources
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\obj\Debug\LeerPaquetes7.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\obj\Debug\LeerPaquetes7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\obj\Debug\LeerPaquetes7.exe
+C:\Users\Usuario\Desktop\S. redes\LeerPaquetes8\NSHW\obj\Debug\LeerPaquetes7.pdb

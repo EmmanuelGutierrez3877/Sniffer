@@ -1,0 +1,43 @@
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\obj\Debug\NSHW.GUI.resources
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\obj\Debug\NSHW.Properties.Resources.resources
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\obj\Debug\NSHW.csproj.GenerateResource.Cache
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\bin\Debug\NSHW.exe.config
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\bin\Debug\NSHW.exe
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\bin\Debug\NSHW.pdb
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\bin\Debug\PcapDotNet.Analysis.dll
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\bin\Debug\PcapDotNet.Base.dll
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\bin\Debug\PcapDotNet.Core.dll
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\obj\Debug\NSHW.csprojResolveAssemblyReference.cache
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\obj\Debug\NSHW.exe
+C:\Users\stark\Documents\Visual Studio 2013\Projects\NSHW\NSHW\obj\Debug\NSHW.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\bin\Debug\NSHW.exe.config
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\bin\Debug\NSHW.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\bin\Debug\NSHW.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\bin\Debug\PcapDotNet.Analysis.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\obj\Debug\NSHW.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\obj\Debug\NSHW.GUI.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\obj\Debug\NSHW.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\obj\Debug\NSHW.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\obj\Debug\NSHW.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\obj\Debug\NSHW.exe
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\obj\Debug\NSHW.pdb
+C:\Users\Usuario\Desktop\Nueva carpeta\NSHW\obj\Debug\NSHW.FormLector.resources
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\NSHW.exe.config
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\NSHW.exe
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\NSHW.pdb
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\PcapDotNet.Analysis.dll
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Usuario\Desktop\p7\NSHW\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.FormLector.resources
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.GUI.resources
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.Properties.Resources.resources
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.exe
+C:\Users\Usuario\Desktop\p7\NSHW\obj\Debug\NSHW.pdb
